@@ -1,0 +1,4 @@
+TESTING 8.8.8.80 Offline 
+Tue 08/14/2018 
+12:36 PM
+Remember to rerun batch file 'pingtest' upon solving the issue 
